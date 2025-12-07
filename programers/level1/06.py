@@ -20,3 +20,6 @@ def solution(n, a, b):
                 _list[i] = int(_list[i] / 2) + 1
         a, b = _list
         round += 1
+
+
+#
